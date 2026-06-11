@@ -4,7 +4,7 @@
 
 * 🌐 I’m working on Full Stack Web Development and UX/UI Design
 * 🌱 Learning Advanced Backend & System Design
-* 💡 Skills: React.js Vue.js Angula.js Laravel 
+* 💡 Skills: React.js Vue.js Angula.js Laravel Next.js
 * 🌏 Based in Cambodia 🇰🇭
 
 ---
